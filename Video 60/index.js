@@ -57,7 +57,7 @@ console.log(c.replace("aH","Ha"))*/
 //Concatenation
 console.log(b.concat(a, "Boss", "King", "Badshah"))
 
-//Strings are Immutable i.e., unchanging over time or unable to be changed.
+//Strings are Immutable i.e.,  not changing over time or unable to be changed.
 console.log(a)
 console.log(b)
 console.log(king)
