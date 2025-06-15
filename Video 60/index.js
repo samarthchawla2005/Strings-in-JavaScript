@@ -64,8 +64,9 @@ console.log(king)
 console.log(real_name)
 
 
+/*I was just practicing in the below code....Rest all is related tot the lecture*/
 
-//My Code
+//My Code 
 
 /*
 let c = "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
